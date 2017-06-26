@@ -1,0 +1,114 @@
+项目名称：minimaxir/<em>big</em>-list-of-naughty-strings
+项目简介：The <em>Big</em> List of Naughty Strings is a list of strings which have a high probability of causing issues when used as use…
+发布时间：May 26, 2017
+开发语言：Python
+流行度：21.2k
+
+项目名称：donnemartin/<em>data</em>-science-ipython-notebooks
+项目简介：Recently updated with 50 new notebooks! <em>Data</em> science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Kera…
+发布时间：Jun 19, 2017
+开发语言：Python
+流行度：9.4k
+
+项目名称：prestodb/presto
+项目简介：Distributed SQL query engine for <em>big</em> <em>data</em>
+发布时间：Jun 26, 2017
+开发语言：Java
+流行度：6.2k
+
+项目名称：onurakpolat/awesome-<em>bigdata</em>
+项目简介：A curated list of awesome <em>big</em> <em>data</em> frameworks, ressources and other awesomeness.
+发布时间：Jun 19, 2017
+开发语言：C++
+流行度：2.5k
+
+项目名称：blaze/blaze
+项目简介：NumPy and Pandas interface to <em>Big</em> <em>Data</em>
+发布时间：Jun 5, 2017
+开发语言：Python
+流行度：2k
+
+项目名称：linkedin/gobblin
+项目简介：Gobblin is a distributed <em>big</em> <em>data</em> integration framework (ingestion, replication, compliance, retention) for batch and…
+发布时间：Jun 25, 2017
+开发语言：Java
+流行度：996
+
+项目名称：allegro/<em>bigcache</em>
+项目简介：Efficient cache for gigabytes of <em>data</em> written in Go.
+发布时间：Apr 18, 2017
+开发语言：Go
+流行度：992
+
+项目名称：apache/arrow
+项目简介：Apache Arrow is a columnar in-memory analytics layer designed to accelerate <em>big</em> <em>data</em>. It houses a set of canonical in…
+发布时间：Jun 25, 2017
+开发语言：C++
+流行度：960
+
+项目名称：Netflix/genie
+项目简介：Distributed <em>Big</em> <em>Data</em> Orchestration Service
+发布时间：Jun 22, 2017
+开发语言：Java
+流行度：676
+
+项目名称：pcbje/ggraph
+项目简介：Graph visualization of <em>big</em> messy <em>data</em>
+发布时间：Jan 30, 2017
+开发语言：JavaScript
+流行度：668
+
+项目名称：gearpump/gearpump
+项目简介：Lightweight real-time <em>big</em> <em>data</em> streaming engine over Akka
+发布时间：Apr 20, 2017
+开发语言：Scala
+流行度：632
+
+项目名称：GraphChi/graphchi-cpp
+项目简介：GraphChi's C++ version. <em>Big</em> <em>Data</em> - small machine.
+发布时间：Sep 17, 2016
+开发语言：C++
+流行度：573
+
+项目名称：Palleas/NaughtyKeyboard
+项目简介：The <em>Big</em> List of Naughty Strings is a list of strings which have a high probability of causing issues when used as use…
+发布时间：Sep 9, 2015
+开发语言：Swift
+流行度：570
+
+项目名称：linkedin/WhereHows
+项目简介：<em>Data</em> Discovery and Lineage for <em>Big</em> <em>Data</em> Ecosystem
+发布时间：Jun 23, 2017
+开发语言：Java
+流行度：542
+
+项目名称：intel-hadoop/HiBench
+项目简介：HiBench is a <em>big</em> <em>data</em> benchmark suite.
+发布时间：Jun 23, 2017
+开发语言：Java
+流行度：514
+
+项目名称：bignerdranch/Core<em>Data</em>Stack
+项目简介：The <em>Big</em> Nerd Ranch Core <em>Data</em> Stack
+发布时间：May 24, 2017
+开发语言：Swift
+流行度：504
+
+项目名称：googledatalab/<em>datalab</em>
+项目简介：Interactive tools and developer experiences for <em>Big</em> <em>Data</em> on Google Cloud Platform.
+发布时间：Jun 23, 2017
+开发语言：TypeScript
+流行度：488
+
+项目名称：jadianes/spark-py-notebooks
+项目简介：Apache Spark &amp; Python (pySpark) tutorials for <em>Big</em> <em>Data</em> Analysis and Machine Learning as IPython / Jupyter notebooks
+发布时间：Jun 9, 2017
+开发语言：Jupyter Notebook
+流行度：480
+
+项目名称：hadoopecosystemtable/hadoopecosystemtable.github.io
+项目简介：This page is a summary to keep the track of Hadoop related projects, and relevant projects around <em>Big</em> <em>Data</em> scene focu…
+发布时间：May 25, 2017
+开发语言：HTML
+流行度：464
+
